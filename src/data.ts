@@ -21,7 +21,7 @@ export const OUTFITS: Outfit[] = [
     title: 'Minimalist Linen Ensemble',
     description: 'A breathable, elegant look perfect for warm afternoons. This modest set combines comfort with a sophisticated silhouette.',
     category: 'Minimal',
-    mainImage: 'https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&q=80&w=800&h=1200',
+    mainImage: 'images/Minimalist Linen.png',
     items: [
       {
         id: '1-1',
