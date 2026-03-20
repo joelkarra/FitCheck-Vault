@@ -25,16 +25,16 @@ export const OUTFITS: Outfit[] = [
     items: [
       {
         id: '1-1',
-        name: 'Oversized Linen Tunic',
-        label: 'Dress',
-        image: 'https://images.unsplash.com/photo-1543076447-215ad9ba6923?auto=format&fit=crop&q=80&w=400&h=600',
-        affiliateUrl: 'https://amazon.com'
+        name: 'Oversized Spread Collar Long Sleeves Cotton Casual Shirt',
+        label: 'Shirt',
+        image: 'https://res.cloudinary.com/dmaallnjq/image/upload/v1773881955/ChatGPT_Image_Mar_18_2026_11_31_55_PM_obssbc.png',
+        affiliateUrl: 'https://amzn.to/4dzxzFr'
       },
       {
         id: '1-2',
         name: 'Leather Slide Sandals',
         label: 'Shoes',
-        image: 'https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&q=80&w=400&h=600',
+        image: 'https://res.cloudinary.com/dmaallnjq/image/upload/v1773881963/ChatGPT_Image_Mar_18_2026_11_34_01_PM_hxyove.png',
         affiliateUrl: 'https://amazon.com'
       },
       {
