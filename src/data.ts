@@ -45,29 +45,23 @@ export const OUTFITS: Outfit[] = [
     title: 'Sophisticated Office Attire',
     description: 'Command the room with this structured yet modest office look. Neutral tones keep it professional while the cut adds modern flair.',
     category: 'Office',
-    mainImage: 'https://images.unsplash.com/photo-1539109132382-381bb3f1c2b3?auto=format&fit=crop&q=80&w=800&h=1200',
+    mainImage: 'https://res.cloudinary.com/dmaallnjq/image/upload/v1774013814/ChatGPT_Image_Mar_20_2026_03_39_57_PM_vtavbs.png',
     items: [
       {
         id: '2-1',
         name: 'Tailored Wide-Leg Trousers',
         label: 'Bottoms',
-        image: 'https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&q=80&w=400&h=600',
-        affiliateUrl: 'https://amazon.com'
+        image: 'https://res.cloudinary.com/dmaallnjq/image/upload/v1774014469/ChatGPT_Image_Mar_20_2026_07_16_37_PM_drattm.png',
+        affiliateUrl: 'https://amzn.to/4bTLZip'
       },
       {
         id: '2-2',
         name: 'Silk Button-Down Blouse',
         label: 'Top',
-        image: 'https://images.unsplash.com/photo-1551163943-3f6a855d1153?auto=format&fit=crop&q=80&w=400&h=600',
-        affiliateUrl: 'https://amazon.com'
+        image: 'https://res.cloudinary.com/dmaallnjq/image/upload/v1774014909/ChatGPT_Image_Mar_20_2026_07_24_20_PM_pmp0p7.png',
+        affiliateUrl: 'https://amzn.to/4rIsVIM'
       },
-      {
-        id: '2-3',
-        name: 'Pointed-Toe Loafers',
-        label: 'Shoes',
-        image: 'https://images.unsplash.com/photo-1535043934128-cf0b28d52f95?auto=format&fit=crop&q=80&w=400&h=600',
-        affiliateUrl: 'https://amazon.com'
-      }
+     
     ]
   },
   {
