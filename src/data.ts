@@ -32,10 +32,10 @@ export const OUTFITS: Outfit[] = [
       },
       {
         id: '1-2',
-        name: 'Leather Slide Sandals',
-        label: 'Shoes',
+        name: 'Linen Wide-Leg Pants',
+        label: 'Pants',
         image: 'https://res.cloudinary.com/dmaallnjq/image/upload/v1773881963/ChatGPT_Image_Mar_18_2026_11_34_01_PM_hxyove.png',
-        affiliateUrl: 'https://amazon.com'
+        affiliateUrl: 'https://amzn.to/4sqWW10'
       },
    
     ]
