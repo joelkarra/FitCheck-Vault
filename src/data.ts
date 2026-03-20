@@ -37,13 +37,7 @@ export const OUTFITS: Outfit[] = [
         image: 'https://res.cloudinary.com/dmaallnjq/image/upload/v1773881963/ChatGPT_Image_Mar_18_2026_11_34_01_PM_hxyove.png',
         affiliateUrl: 'https://amazon.com'
       },
-      {
-        id: '1-3',
-        name: 'Woven Straw Tote',
-        label: 'Accessories',
-        image: 'https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&q=80&w=400&h=600',
-        affiliateUrl: 'https://amazon.com'
-      }
+   
     ]
   },
   {
